@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 """Defines a rectangle class."""
+=======
+ a rectangle class."""
+>>>>>>> 2ee3654afe10792f95e52901371a96a4e98baa2c
 from models.base import Base
 
 

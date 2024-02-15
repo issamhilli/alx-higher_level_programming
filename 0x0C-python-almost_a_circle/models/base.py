@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 
 """Defines a base model class."""
+=======
+ a base model class."""
+>>>>>>> 2ee3654afe10792f95e52901371a96a4e98baa2c
 import json
 import csv
 import turtle
